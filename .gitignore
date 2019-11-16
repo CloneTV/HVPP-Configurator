@@ -1,0 +1,7 @@
+/GUI/Binary/*.fuses
+/GUI/Source Code/.vs/*
+/GUI/Source Code/HVPP_Programmer/bin
+/GUI/Source Code/HVPP_Programmer/obj
+/GUI/Source Code/HVPP_Programmer/publish
+/GUI/Source Code/HVPP_Programmer/*.user
+/GUI/Source Code/HVPP_Programmer/*.pfx
