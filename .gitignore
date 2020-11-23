@@ -5,3 +5,5 @@
 /GUI/Source Code/HVPP_Programmer/publish
 /GUI/Source Code/HVPP_Programmer/*.user
 /GUI/Source Code/HVPP_Programmer/*.pfx
+/Schematic/*.jbf
+/GUI/Binary/AVR HVPP Configurator GUI.exe.manifest
